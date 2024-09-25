@@ -55,6 +55,6 @@ For full automation, you can use a master Korn Shell script to launch all steps 
 For further questions, please contact:  
 **Antonio Fiumanò**  
 Data Engineer  
-Email: [axelfiumano@gmail.com](mailto:axelfiumano@gmail.com)  
+[axelfiumano@gmail.com](mailto:axelfiumano@gmail.com)  
 [LinkedIn Profile](https://www.linkedin.com/in/antonio-fiumano-68aab419a)  
 [Personal Website](https://tonyfiuma.github.io/)  
